@@ -1,0 +1,2 @@
+# Tinc
+My Tinc Configuration
